@@ -1,0 +1,9 @@
+streamlit
+firebase-admin
+xgboost
+numpy
+pandas
+scikit-learn
+altair
+streamlit-extras
+streamlit-autorefresh
